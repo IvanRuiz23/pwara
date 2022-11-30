@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/Mi Crud/sw.js';
+var swLocation = '/MiCrud/sw.js';
 
 var swReg;
 
