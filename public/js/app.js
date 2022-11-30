@@ -8,6 +8,7 @@ if ( navigator.serviceWorker ) {
 
 
     if ( url.includes('localhost') ) {
+        console.log('entro acá');
         swLocation = '/sw.js';
     }
 
